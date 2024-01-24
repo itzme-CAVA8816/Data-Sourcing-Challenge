@@ -27,8 +27,6 @@ Part 2: Access The Movie Database API.
 
 Part 3: Merge and Clean the Data for Export.
 
-The DataFrame is exported to a CSV file without the index.
-
 ## Built With
 
 Visual Code Basic.
