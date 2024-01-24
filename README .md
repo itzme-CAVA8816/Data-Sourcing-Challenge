@@ -8,6 +8,7 @@ The focus of the assignment is to extract data from two different sources: The N
 ### Prerequisites
 
 The starter files consist of the following files:  
+
 retrieve_movie_data.jbynb
 
 example.env
