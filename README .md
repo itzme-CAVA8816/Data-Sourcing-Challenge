@@ -19,6 +19,7 @@ The repo is public and can be cloned at:
 ## Testing
 
 Requirements
+
 Part 1: Access the New York Times API.
 
 Part 2: Access The Movie Database API.
